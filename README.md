@@ -17,7 +17,7 @@ The solution transitions from raw chemical measurements to actionable quality pr
 
 ---
 
-## 🛠️ Tech Stack
+
 
 - **Core ML:** `scikit-learn`, `xgboost`, `lightgbm`
 - **Clustering:** `KMeans`, `DBSCAN`, `HDBSCAN`
